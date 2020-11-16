@@ -1,5 +1,5 @@
 
-![](image/screenshot.png)
+![](images/screenshot.png)
 
 
 # Getting Started with Create React App
